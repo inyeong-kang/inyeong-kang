@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @inyeong-kang
 - 👀 I’m interested in artificial intelligence and IoT.
-- 🌱 I’m currently learning data structure and arduino.
-- 💞️ I’m going to learn machine learning.
+- 🌱 I took these courses: data structure, algorithm, web programming and arduino.
+- 💞️ I’m currently learning machine learning and image processing.
 - 📫 How to reach me ...
 
 <!---
